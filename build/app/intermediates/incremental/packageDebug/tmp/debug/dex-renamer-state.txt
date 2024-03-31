@@ -1,0 +1,4 @@
+#Sun Mar 31 05:49:32 AST 2024
+base.0=C\:\\Users\\DELL\\Downloads\\Compressed\\quiz_app_ewabootcamp-main\\quiz_app_ewabootcamp-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

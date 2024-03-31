@@ -1,0 +1,48 @@
+1- everything in flutter is a widget
+2- there are two types of widgets in flutter : stateless widget or statefull widget
+
+
+3- data type :
+- String (النص)
+- Intger (العدد الصحيح)
+- boolean (True - fasle)
+- double (عدد عشري)
+- List (Array) [3 , 8 , 1 , 9]
+
+
+
+_increment(){}  (private function)
+
+
+
+/////////////////////////////////////////////////////
+
+** Flutter **
+
+
+
+// I.Question
+
+1- stateless widget (قراءة فقط)
+a widget that does not need to be re-rendered because the user doent need to interact with
+ودجت لا يحتاج اعادة رسمه لانه لا يتفاعل مع المستخدم (صفحة الشروط والاحكام)
+
+
+
+2- statefull widget
+a widget that needs to be re-rendered because the user will need to interact with
+ so the "State" needs to be change and rerenderd on the screen
+
+
+
+build function : its a function inside stateless and statefull widgets used to paint (render ) the UI.
+
+set state finction :
+- it is a fuction inside statefull widget used to re-render the screen (UI) with the new "state"
+- its a fuction that calls the build function
+
+
+- splash screen :the screen that appears first and still for about 2 second 
+
+
+- Responsive design: is to make a design that is fit with all screen sizes
